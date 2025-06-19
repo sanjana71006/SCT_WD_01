@@ -57,10 +57,10 @@ const Navigation = () => {
           {/* Logo */}
           <div className="flex items-center space-x-2 group cursor-pointer">
             <div className="relative">
-              <img src="skillcraft.jpeg"  alt="SkillCraft Logo" className={`h-8 w-8 transition-all duration-300 ${
-    isScrolled ? 'brightness-100' : 'brightness-150'
-  } group-hover:scale-110 group-hover:rotate-12`}  
-  />
+              <img src="/skillcraft.jpeg" alt="SkillCraft Logo" className={`h-8 w-8 transition-all duration-300 ${
+  isScrolled ? 'brightness-100' : 'brightness-150'
+} group-hover:scale-110 group-hover:rotate-12`} />
+
               <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full blur-xl opacity-0 group-hover:opacity-30 transition-opacity duration-300"></div>
             </div>
             <span className={`text-xl font-bold transition-colors duration-300 ${
