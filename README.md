@@ -45,10 +45,9 @@ npm install
 npm run dev
 ```
 
-## 📸 Preview
+## Try it : 
 
-![SkillCraft Screenshot](./skillcraft.jpeg)
-
+ https://skillcraftlandingpage.netlify.app/
 ---
 
 ### ✅ **Step 2: Save it and run Git commands**
