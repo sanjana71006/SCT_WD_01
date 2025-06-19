@@ -57,9 +57,3 @@ git add README.md
 git commit -m "Added README for SkillCraft landing page"
 git push
 ```
-
----
-
-Once pushed, GitHub will display your `README.md` as the landing content of your repo.
-
-Would you like a badge section (like for license, tech stack, etc.) added too?
